@@ -15,13 +15,13 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to Hugging Face Cookbook Class Wars repository! We aim to democratize AI technology by translating/writing cookbooks of Hugging Face Community. Join us in advancing the field of AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"Hugging Face를 통해 실전으로 배우는 AI"_  
-- Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 통해 다양한 분야의 AI 사용법을 배웁니다
-- Hugging Face를 활용하는 방법 또한 배울 수 있습니다
-- 오픈소스에 기여하는 경험을 쌓을 수 있습니다
+- Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 스터디합니다.
+- Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다
+- 더 나아가, Cookbook의 번역과 집필을 통해 오픈소스에 기여하는 경험을 쌓을 수 있습니다
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
@@ -29,7 +29,7 @@ _"Hugging Face를 통해 실전으로 배우는 AI"_
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 정우준 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 멀티모달 / 비디오 이해            |
-| **Project Manager** | 김준재 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| **Project Manager** | 김준재 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | NLP / MLOps                  |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
@@ -38,7 +38,7 @@ gantt
     title 2025 AI 프로젝트 여정
     section 핵심 마일스톤
     OT       :a1, 2025-02-23, 14d
-    스터디 발표        :a2, after a1, 14w
+    스터디        :a2, after a1, 14w
     Hugging Face PR    :a3, 2025-04-28, 7w
 ```
 
@@ -57,7 +57,7 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        화요일: 스터디 (온라인 미팅)"""
+        화요일 오후 9시: 스터디 (온라인 미팅)"""
 ```
 
 ## 💻 주차별 활동 (Activity History)
