@@ -1,14 +1,14 @@
-<h1 align="center"> 🤗 Hugging Face 쿡북 요리사 </h1>
+<h1 align="center"> 🤗 Hugging Face 쿡북 요리사 👨‍🍳</h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars?color=2b9348"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2FHugging-Face-Cookbook-Class-Wars&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 
@@ -18,13 +18,13 @@
 > Welcome to Hugging Face Cookbook Class Wars repository! We aim to democratize AI technology by translating/writing cookbooks of Hugging Face Community. Join us in advancing the field of AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"Hugging Face를 통해 실전으로 배우는 AI"_  
+_**"Hugging Face를 통해 실전으로 배우는 AI"**_  
 - Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 스터디합니다.
-- Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다
-- 더 나아가, Cookbook의 번역과 집필을 통해 오픈소스에 기여하는 경험을 쌓을 수 있습니다
+- Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
+- 더 나아가, Cookbook의 번역과 집필을 통해 오픈소스에 기여하는 경험을 쌓을 수 있습니다.
 
 
-## 🧑 역동적인 팀 소개 (Dynamic Team)
+## 🧑 팀 소개 (Team Members)
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
@@ -35,7 +35,7 @@ _"Hugging Face를 통해 실전으로 배우는 AI"_
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
 gantt
-    title 2025 AI 프로젝트 여정
+    title 2025 쿡북 요리사 여정
     section 핵심 마일스톤
     OT       :a1, 2025-02-23, 14d
     스터디        :a2, after a1, 14w
@@ -66,10 +66,10 @@ class CollaborationFramework:
 | -------- | -------- | ---- |
 | 2025/02/25 | OT (1)      |   김준재, 정우준   |
 | 2025/03/04 |  OT (2) | 정우준 | 
-| 2025/03/11 |  Part 1. | 미정 | 
-| 2025/03/18 |  Part 2. | 미정 | 
+| 2025/03/11 |  Study 1. | 미정 | 
+| 2025/03/18 |  Study 2. | 미정 | 
 | ... |  ... | ... | 
-| 2025/06/10 |  Part n. | 미정 | 
+| 2025/06/10 |  Study n. | 미정 | 
 
 
 
