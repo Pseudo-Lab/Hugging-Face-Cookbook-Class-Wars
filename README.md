@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/50b10143-49c7-48b3-88f7-433e1aad4fb3" width="500">
+</div>
+
 <h1 align="center"> 🤗 Hugging Face 쿡북 요리사 👨‍🍳</h1>
 
 <div align="center">
