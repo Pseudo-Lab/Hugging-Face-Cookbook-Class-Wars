@@ -25,7 +25,7 @@
 > 🙍🏻‍♀️ 💭 _컴퓨터 비전, 자연어 처리, 이미지 생성 등 AI의 다양한 분야을 조금씩 알아보고 싶은데 어떻게 해야하지? 🤔_  
 > 🙍🏻 💭 _스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아 😢_ 
 
-이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북요리사**를 진행합니다!
+이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북 요리사**를 진행합니다!
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6bc9cc3c-3215-45a4-b971-f99a3a37ecb2" width="200">
