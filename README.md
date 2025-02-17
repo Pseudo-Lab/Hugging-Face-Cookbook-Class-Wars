@@ -23,7 +23,7 @@
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _**"Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분야를 공부하고 Hugging Face에도 직접 기여하기!"**_  
-- Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 스터디합니다.
+- Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 자료로 공부합니다.
 - Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
 - 더 나아가, Cookbook의 번역과 집필을 통해 오픈소스에 기여하는 경험을 쌓을 수 있습니다.
 
