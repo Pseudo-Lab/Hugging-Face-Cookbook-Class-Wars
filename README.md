@@ -28,6 +28,10 @@
 
 이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북요리사**를 진행합니다!
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6bc9cc3c-3215-45a4-b971-f99a3a37ecb2" width="200">
+</div>
+
 _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분야를 공부하고 Hugging Face에도 직접 기여하기!"**_  
 - Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 자료로 공부합니다.
 - Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
@@ -59,12 +63,15 @@ gantt
 | 2025/02/25 | OT (1)      |   김준재, 정우준   |
 | 2025/03/04 |  OT (2) | 정우준 | 
 | 2025/03/11 |  Study 1. | 미정 | 
-| 2025/03/18 |  Study 2. | 미정 | 
+| 2025/03/18 |  Study 2. | 미정 |
+| 2025/03/25 |  1st. Magical Week | 모두🤗 |
 | ... |  ... | ... | 
+| 2025/04/29 |  2nd. Magical Week | 모두🤗 |
 | 2025/06/10 |  Study n. | 미정 | 
 
-- **매주 스터디를 진행하며, 10주차부터는 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다!**
-- **발표는 매주 한 명씩 진행합니다!**
+- **매주 스터디를 진행하며, 10주차부터는 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다.**
+- **발표는 매주 한 명씩 진행합니다.**
+- **발표 순서와 발표 자료는 OT때 정할 예정입니다.**
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture)
 **우리의 개발 문화**  
@@ -72,7 +79,7 @@ gantt
 class CollaborationFramework:
     def __init__(self):
         self.tools = {
-            'communication': 'Discord',
+            'communication': 'Google Meet',
             'version_control': 'GitHub Projects',
             'ci/cd': 'GitHub Actions',
             'docs': 'Github Wiki'
@@ -92,7 +99,7 @@ class CollaborationFramework:
 - 링크 (준비중)
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-XX 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 구글 미트로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
