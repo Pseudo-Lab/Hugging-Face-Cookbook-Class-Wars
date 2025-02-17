@@ -21,9 +21,9 @@
 > Welcome to Hugging Face Cookbook Class Wars repository! We aim to democratize AI technology by translating/writing cookbooks of Hugging Face Community. Join us in advancing the field of AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-> 🙍🏻‍♂️ 💭 (Hugging Face를 들어는 봤는데... transformers 라이브러리를 써본 적은 있긴 한데... Hugging Face에 대해서 더 자세히 알고 싶어!)  
-> 🙍🏻‍♀️ 💭 (컴퓨터 비전, 자연어 처리, 이미지 생성,,, AI의 다양한 분야을 조금씩 알아보고 싶은데 어떻게 해야하지?)  
-> 🙍🏻 💭 (스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아...)  
+> 🙍🏻‍♂️ 💭 _(transformers 라이브러리를 써본 적은 있긴 한데 Hugging Face에 대해서 더 자세히 알고 싶어! 🤩)_  
+> 🙍🏻‍♀️ 💭 _(컴퓨터 비전, 자연어 처리, 이미지 생성 등 AI의 다양한 분야을 조금씩 알아보고 싶은데 어떻게 해야하지? 🤔)_  
+> 🙍🏻 💭 _(스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아 😢)_ 
 
 이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북요리사**를 진행합니다!
 
@@ -50,57 +50,54 @@ _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분
 gantt
     title 2025 쿡북 요리사 여정
     section 핵심 마일스톤
-    OT       :a1, 2025-02-23, 14d
+    OT       :a1, 2025-03-04, 14d
     스터디        :a2, after a1, 14w
-    Hugging Face PR    :a3, 2025-04-28, 7w
+    Hugging Face PR    :a3, 2025-05-06, 7w
 ```
 
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/25 | OT (1)      |   김준재, 정우준   |
-| 2025/03/04 |  OT (2) | 정우준 | 
-| 2025/03/11 |  Study 1. | 미정 | 
-| 2025/03/18 |  Study 2. | 미정 |
+| 2025/03/04 | OT (1)      |   김준재, 정우준   |
+| 2025/03/11 |  Study (1) | 정우준 | 
+| 2025/03/18 |  Study (2) | 김준재 | 
 | 2025/03/25 |  1st. Magical Week | 모두🤗 |
+| 2025/04/01 |  Study (3) | 미정 |
+| 2025/04/08 |  Study (4) | 미정 |
 | ... |  ... | ... | 
 | 2025/04/29 |  2nd. Magical Week | 모두🤗 |
-| 2025/06/10 |  Study n. | 미정 | 
+| 2025/06/10 |  Study (n) | 미정 | 
 
-- **매주 스터디를 진행하며, 10주차부터는 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다.**
+- **매주 스터디를 진행하며, 10주차부터는 스터디와 동시에 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다.**
 - **발표는 매주 한 명씩 진행합니다.**
 - **발표 순서와 발표 자료는 OT때 정할 예정입니다.**
-
-## 🛠️ 우리의 개발 문화 (Our Development Culture)
-**우리의 개발 문화**  
-```python
-class CollaborationFramework:
-    def __init__(self):
-        self.tools = {
-            'communication': 'Google Meet',
-            'version_control': 'GitHub Projects',
-            'ci/cd': 'GitHub Actions',
-            'docs': 'Github Wiki'
-        }
-    
-    def workflow(self):
-        return """주간 사이클:
-        화요일 오후 9시: 스터디 (온라인 미팅)"""
-```
-
-## 💡 학습 자원 (Learning Resources)
-- [Hugging Face AI Cookbook](https://huggingface.co/learn/cookbook/index): 스터디에 사용할 자료
-
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 - 링크 (준비중)
 
+**🌟스터디 공지🌟**
+- **매주 화요일 오후 9시 ~ 10시 / 디스코드 #Room-AN**
+- **스터디 자료:** [Hugging Face AI Cookbook](https://huggingface.co/learn/cookbook/index)
+ 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 구글 미트로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
+
+## Hugging Face KREW
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="100">
+</div>
+
+Hugging Face KREW는 가짜연구소의 리서치 팀입니다 🤗  
+저희 팀은 Hugging Face와 관련된 다양한 스터디 및 기여 활동을 진행하고 있습니다!   
+이번 10기에 진행하는 프로젝트는 아래와 같습니다.
+- [Hugging Face Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)
+- Hugging Face Hub Garden
+
+Hugging Face KREW에 대해 자세히 알아보고 싶으시면 [이곳](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)에서 확인하세요🤗
 
 ## Acknowledgement 🙏
 
