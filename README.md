@@ -21,9 +21,9 @@
 > Welcome to Hugging Face Cookbook Class Wars repository! We aim to democratize AI technology by translating/writing cookbooks of Hugging Face Community. Join us in advancing the field of AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-> 🙍🏻‍♂️ 💭 _(transformers 라이브러리를 써본 적은 있긴 한데 Hugging Face에 대해서 더 자세히 알고 싶어! 🤩)_  
-> 🙍🏻‍♀️ 💭 _(컴퓨터 비전, 자연어 처리, 이미지 생성 등 AI의 다양한 분야을 조금씩 알아보고 싶은데 어떻게 해야하지? 🤔)_  
-> 🙍🏻 💭 _(스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아 😢)_ 
+> 🙍🏻‍♂️ 💭 _transformers 라이브러리를 써본 적은 있긴 한데 Hugging Face에 대해서 더 자세히 알고 싶어! 🤩_  
+> 🙍🏻‍♀️ 💭 _컴퓨터 비전, 자연어 처리, 이미지 생성 등 AI의 다양한 분야을 조금씩 알아보고 싶은데 어떻게 해야하지? 🤔_  
+> 🙍🏻 💭 _스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아 😢_ 
 
 이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북요리사**를 진행합니다!
 
