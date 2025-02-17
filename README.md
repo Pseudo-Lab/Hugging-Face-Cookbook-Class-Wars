@@ -22,10 +22,16 @@
 > Welcome to Hugging Face Cookbook Class Wars repository! We aim to democratize AI technology by translating/writing cookbooks of Hugging Face Community. Join us in advancing the field of AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_**"Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분야를 공부하고 Hugging Face에도 직접 기여하기!"**_  
+> 🙍🏻‍♂️ 💭 (Hugging Face를 들어는 봤는데... transformers 라이브러리를 써본 적은 있긴 한데... Hugging Face에 대해서 더 자세히 알고 싶어!)  
+> 🙍🏻‍♀️ 💭 (컴퓨터 비전, 자연어 처리, 이미지 생성,,, AI의 다양한 분야을 알아보고 싶은데 어떻게 해야하지?)  
+> 🙍🏻 💭 (스터디에 항상 열심히 참여하지만 끝나고 나면 누군가에게 자랑할만한 결과물이 남지가 않아...)  
+
+이런 고민을 하고 계신 분들을 위해 **🤗Hugging Face 쿡북요리사**를 진행합니다!
+
+_**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분야를 공부하고 Hugging Face에도 직접 기여하기!"**_  
 - Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 자료로 공부합니다.
 - Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
-- 더 나아가, Cookbook의 번역과 집필을 통해 오픈소스에 기여하는 경험을 쌓을 수 있습니다.
+- 더 나아가, Cookbook의 번역 또는 집필하여 Hugging Face에 직접 기여하고 자신의 문서를 남길 수 있는 경험을 쌓을 수 있습니다.
 
 
 ## 🧑 팀 소개 (Team Members)
@@ -57,7 +63,8 @@ gantt
 | ... |  ... | ... | 
 | 2025/06/10 |  Study n. | 미정 | 
 
-**매주 스터디를 진행하며, 10주차부터는 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다!**
+- **매주 스터디를 진행하며, 10주차부터는 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다!**
+- **발표는 매주 한 명씩 진행합니다!**
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture)
 **우리의 개발 문화**  
