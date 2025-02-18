@@ -34,9 +34,21 @@
 _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분야를 공부하고 Hugging Face에도 직접 기여하기!"**_  
 - Hugging Face의 [AI Cookbook 노트북](https://huggingface.co/learn/cookbook/index)을 자료로 공부합니다.
 - Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
-- 더 나아가, Cookbook의 번역 또는 집필하여 Hugging Face에 직접 기여하고 자신의 문서를 남길 수 있는 경험을 쌓을 수 있습니다.
+- 더 나아가, Cookbook을 번역 또는 집필하여 Hugging Face에 직접 기여하고 자신의 문서를 남길 수 있는 경험을 쌓을 수 있습니다.
 
-## Hugging Face KREW
+## 👨‍🍳 AI Cookbook
+Hugging Face의 AI Cookbook은 오픈소스 도구와 모델을 사용하여 AI 애플리케이션을 구축하고 다양한 작업을 해결하는 실용적인 예제들을 모아놓은 것입니다.
+
+2025년 상반기 기준, AI Cookbook에는 다음과 같은 다양한 분야의 예제들이 있습니다:
+- MLOps
+- LLM
+- Computer Vision
+- Diffusion
+- Multimodal
+- Search(Reranking, Vector)
+- Agents
+
+## 🤗 Hugging Face KREW
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="200">
 </div>
@@ -90,10 +102,17 @@ gantt
 | 2025/06/10 |  Study (10) | 미정 | 
 
 - **매주 스터디를 진행하며, 10주차부터는 스터디와 동시에 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다.**
+- **모든 팀원이 최소 1회씩 발표를 진행할 예정입니다.**
 - **발표는 매주 한 명씩 진행합니다.**
 - **발표 순서와 발표 자료는 OT때 정할 예정입니다.**
 
 ## 🌱 참여 안내 (How to Engage)
+**이런 팀원을 찾고 있어요.**
+- Hugging Face 생태계의 라이브러리로(transformers, diffusers 등) 프로젝트를 진행해 보신 분
+- 평소 관심 있던 특정 AI 분야를 톺아보고 싶은 분
+- 오픈 소스 기여에 관심이 있으신 분
+- 영어 독해에 거부감이 없으신 분
+
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 - 링크 (준비중)
 
