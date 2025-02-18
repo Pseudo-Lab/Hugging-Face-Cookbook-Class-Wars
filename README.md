@@ -36,6 +36,19 @@ _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분
 - Hugging Face의 활용법을 포함한 다양한 분야의 AI 사용법을 배웁니다.
 - 더 나아가, Cookbook의 번역 또는 집필하여 Hugging Face에 직접 기여하고 자신의 문서를 남길 수 있는 경험을 쌓을 수 있습니다.
 
+## Hugging Face KREW
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="100">
+</div>
+
+Hugging Face KREW는 가짜연구소의 리서치 팀입니다 🤗  
+저희 팀은 Hugging Face와 관련된 다양한 스터디 및 기여 활동을 진행하고 있습니다!   
+이번 10기에 진행하는 프로젝트는 아래와 같습니다.
+- [Hugging Face Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)
+- Hugging Face Hub Garden
+- Hugging Face 쿡북 요리사
+
+Hugging Face KREW에 대해 자세히 알아보고 싶으시면 [이곳](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)에서 확인하세요🤗
 
 ## 🧑 팀 소개 (Team Members)
 
@@ -65,9 +78,15 @@ gantt
 | 2025/03/25 |  1st. Magical Week | 모두🤗 |
 | 2025/04/01 |  Study (3) | 미정 |
 | 2025/04/08 |  Study (4) | 미정 |
-| ... |  ... | ... | 
+| 2025/04/15 |  Study (5) | 미정 |
+| 2025/04/22 |  Study (6) | 미정 |
 | 2025/04/29 |  2nd. Magical Week | 모두🤗 |
-| 2025/06/10 |  Study (n) | 미정 | 
+| 2025/05/06 |  PR 시작 | 미정 |
+| 2025/05/13 |  PseudoCon 준비 | 모두🤗 |
+| 2025/05/20 |  Study (7) | 미정 |
+| 2025/05/27 |  Study (8) | 미정 |
+| 2025/06/03 |  Study (9) | 미정 |
+| 2025/06/10 |  Study (10) | 미정 | 
 
 - **매주 스터디를 진행하며, 10주차부터는 스터디와 동시에 다 함께 Hugging Face 레포지토리에 PR을 올릴 예정입니다.**
 - **발표는 매주 한 명씩 진행합니다.**
@@ -86,18 +105,6 @@ gantt
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
-## Hugging Face KREW
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="100">
-</div>
-
-Hugging Face KREW는 가짜연구소의 리서치 팀입니다 🤗  
-저희 팀은 Hugging Face와 관련된 다양한 스터디 및 기여 활동을 진행하고 있습니다!   
-이번 10기에 진행하는 프로젝트는 아래와 같습니다.
-- [Hugging Face Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)
-- Hugging Face Hub Garden
-
-Hugging Face KREW에 대해 자세히 알아보고 싶으시면 [이곳](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)에서 확인하세요🤗
 
 ## Acknowledgement 🙏
 
