@@ -38,7 +38,7 @@ _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분
 
 ## Hugging Face KREW
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="100">
+<img src="https://github.com/user-attachments/assets/d1d5b315-a670-46a6-ab5e-3201b394fa30" width="200">
 </div>
 
 Hugging Face KREW는 가짜연구소의 리서치 팀입니다 🤗  
