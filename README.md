@@ -44,9 +44,10 @@ _**"🤗 Hugging Face의 AI Cookbook을 활용해 코드와 함께 다양한 분
 Hugging Face KREW는 가짜연구소의 리서치 팀입니다 🤗  
 저희 팀은 Hugging Face와 관련된 다양한 스터디 및 기여 활동을 진행하고 있습니다!   
 이번 10기에 진행하는 프로젝트는 아래와 같습니다.
-- [Hugging Face Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)
-- [Hugging Face Hub Garden](https://github.com/Pseudo-Lab/Hugging-Face-Hub-Garden)
-- Hugging Face 쿡북 요리사
+- **Hugging Face 쿡북 요리사**
+- **[Hugging Face Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-First-PR?tab=readme-ov-file)**
+- **[Hugging Face Hub Garden](https://github.com/Pseudo-Lab/Hugging-Face-Hub-Garden)**
+
 
 Hugging Face KREW에 대해 자세히 알아보고 싶으시면 [이곳](https://calm-book-46f.notion.site/Hugging-Face-KREW-146f51a7c11780c3a6bfc1b72e9fd65e?pvs=4)에서 확인하세요🤗
 
